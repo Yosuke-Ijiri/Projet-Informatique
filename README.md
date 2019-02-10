@@ -1,2 +1,2 @@
-# Projet_informatique
+# Projet_Informatique
 For the course, Projet informatique, 2018-19
